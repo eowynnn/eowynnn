@@ -1,6 +1,6 @@
 # 🏄‍♂️ RXDAN
 
-**`(Developer/Filmmaker/Creator)`**
+**`(Developer/Designer/Creator)`**
 
 I am a frontend-developer and content creator building my version of the digital world step by step. All coding projects are built from the ground up, from planning and designing to solving real-life problems with code. 
 
@@ -29,7 +29,7 @@ I am a frontend-developer and content creator building my version of the digital
 #
 
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=eowynnn&theme=dark&locale=id)](https://git.io/streak-stats)
 
 #
 <!--
