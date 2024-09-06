@@ -28,7 +28,7 @@ I am a frontend-developer and content creator building my version of the digital
 #
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=eowynnn&theme=dark&locale=id)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=eowynnn&theme=dark&locale=id)](https://git.io/streak-stats) -->
 
 #
 <!--
